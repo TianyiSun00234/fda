@@ -1,6 +1,5 @@
 # precisionFDA
 
-[Link to main](https://github.com/Ecolab-UMN-DS4C-Challenge/precisionFDA)
+[Summary of this work](https://github.com/TianyiSun00234/precisionFDA/blob/main/summary.pdf)
 
-[Summary of this task]()
-
+[Results and Link to main](https://github.com/Ecolab-UMN-DS4C-Challenge/precisionFDA)
