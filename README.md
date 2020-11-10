@@ -1,4 +1,4 @@
-# precisionFDA
+# ALL NOTEBOOKS for COVID-19
 
 [Summary of this work](https://github.com/TianyiSun00234/precisionFDA/blob/main/summary.pdf)
 
