@@ -1,4 +1,4 @@
-# ALL NOTEBOOKS for COVID-19
+# COVID-19
 ## FDA modeling challenge 
 - all related to ''alive decease''
 
