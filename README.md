@@ -6,7 +6,6 @@
 
 [Results](https://github.com/Ecolab-UMN-DS4C-Challenge/precisionFDA#alive-or-deceased-status-)
 
-[Link to main](https://github.com/Ecolab-UMN-DS4C-Challenge/precisionFDA)
 
 ## SIR model development 
 - SIRQ
